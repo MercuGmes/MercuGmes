@@ -62,3 +62,7 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 
 >>> [ '🐔', '🐣', '🐥', '🥚' ]
 ```
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mercugmes&show_icons=true&locale=en" alt="mercugmes" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mercugmes&" alt="mercugmes" /></p>
