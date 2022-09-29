@@ -68,3 +68,7 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mercugmes&" alt="mercugmes" /></p>
 
 ![Snake animation](https://github.com/mercugmes/mercugmes/blob/output/github-contribution-grid-snake.svg)
+
+### ⚡ REPLIT - MERCUBOT
+[![Deploy](https://img.shields.io/badge/replit_gatabot-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/github/MercuGmes/mercugmes)
+<a href="https://replit.com/github/MercuGmes/mercugmes"> <img src="https://media0.giphy.com/media/lMwu8EJAnv9kmn51KQ/giphy.gif" height="29px"></a>
