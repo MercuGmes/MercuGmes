@@ -69,6 +69,3 @@ console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 
 ![Snake animation](https://github.com/mercugmes/mercugmes/blob/output/github-contribution-grid-snake.svg)
 
-### ⚡ REPLIT - MERCUBOT
-[![Deploy](https://img.shields.io/badge/replit_mercubot-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/github/MercuGmes/mercu-bot)
-<a href="https://replit.com/github/MercuGmes/mercu-bot"> <img src="https://media0.giphy.com/media/lMwu8EJAnv9kmn51KQ/giphy.gif" height="29px"></a>
