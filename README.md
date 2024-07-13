@@ -1,6 +1,6 @@
 <h3 align="center">
   Welcome to MercuGmes Profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3c5Ym13ZGdxNmkwa2hsNTdidmliazYzbzJ2eWFqdWN1ZTZ2czV5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7J4P7cUur2DlErijp3/giphy.webp)" width="28">
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/MercuGmes/readme-typing-svg -->
