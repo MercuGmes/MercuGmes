@@ -25,17 +25,6 @@
 
 ---
 
-### 🎮 Play a Game!
-Try your luck! Click the image below to play a simple fun game:
-
-<p align="center">
-  <a href="https://mercugmes.github.io/github-readme-game">
-    <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="300px" alt="Click to Play" />
-  </a>
-</p>
-
----
-
 ### 🚀 Cool Projects:
 🔹 [NetSec Scanner](https://github.com/MercuGmes/netsec-scanner) - About NetSec Scanner es una herramienta en Python para escanear redes locales.  
 🔹 [QuickLauncher](https://github.com/MercuGmes/QuickLauncher) - QuickLauncher es una aplicación que permite agregar y gestionar accesos rápidos a programas y archivos desde una interfaz intuitiva y moderna  
