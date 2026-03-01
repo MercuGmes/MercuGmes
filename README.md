@@ -45,7 +45,7 @@ fun_fact: "El modo oscuro es mi hábitat natural 🖥️"
 ### 🌐 Mi Portafolio
 
 <p align="center">
-  <a href="https://mercugmes.github.io/portafolio/">
+  <a href="https://mercugmes.github.io/PortafolioOFC/">
     <img src="https://img.shields.io/badge/🌐_Ver_Portafolio-a78bfa?style=for-the-badge&logoColor=white" />
   </a>
 </p>
@@ -55,9 +55,9 @@ fun_fact: "El modo oscuro es mi hábitat natural 🖥️"
 **Proyectos incluidos:**
 | # | Proyecto | Descripción | Demo |
 |---|----------|-------------|------|
-| 1 | **Café Cartago** | Landing page para cafetería local | [Ver →](https://mercugmes.github.io/portafolio/proyecto1/) |
-| 2 | **FitTrack** | Página web de gimnasio con planes | [Ver →](https://mercugmes.github.io/portafolio/proyecto2/) |
-| 3 | **DevNotes** | App de notas interactiva para devs | [Ver →](https://mercugmes.github.io/portafolio/proyecto3/) |
+| 1 | **Café Cartago** | Landing page para cafetería local | [Ver →](https://mercugmes.github.io/PortafolioOFC/proyecto1/) |
+| 2 | **FitTrack** | Página web de gimnasio con planes | [Ver →](https://mercugmes.github.io/PortafolioOFC/proyecto2/) |
+| 3 | **DevNotes** | App de notas interactiva para devs | [Ver →](https://mercugmes.github.io/PortafolioOFC/proyecto3/) |
 
 ---
 
@@ -69,23 +69,6 @@ fun_fact: "El modo oscuro es mi hábitat natural 🖥️"
 | 🔹 [QuickLauncher](https://github.com/MercuGmes/QuickLauncher) | App para gestionar accesos rápidos a programas |
 | 🔹 [Real Time Network Monitor](https://github.com/MercuGmes/Real-Time-Network-Monitor) | Captura y análisis de tráfico de red en tiempo real |
 | 🔹 [MultiLauncher](https://github.com/MercuGmes/MultiLauncher) | Ejecuta múltiples programas con un solo clic |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MercuGmes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&text_color=e0e6ef" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MercuGmes&theme=tokyonight&hide_border=true&background=0D1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MercuGmes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&text_color=e0e6ef" alt="Top Languages" width="40%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MercuGmes&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=a78bfa&line=818cf8&point=e0e6ef" alt="Activity Graph" width="90%" />
-</p>
 
 ---
 
@@ -108,14 +91,3 @@ fun_fact: "El modo oscuro es mi hábitat natural 🖥️"
   <a href="mailto:aaronmejiavg@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
----
-
-<div align="center">
-
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM25lNXRnMGJ6bWlrbjh4ZnY1ejNodG9oeXg1OHBvYThqbHh6MjkzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QMHoU66sBXqqLqYvGO/giphy.gif" width="300" />
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=MercuGmes&color=a78bfa&style=flat-square&label=Visitas+al+perfil)
-
-</div>
