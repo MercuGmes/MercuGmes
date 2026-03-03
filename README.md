@@ -87,7 +87,7 @@ fun_fact: "El modo oscuro es mi hábitat natural 🖥️"
   <a href="https://github.com/MercuGmes"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/aaron-mejia-vega/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/Aaron_Mercu"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://mercugmes.github.io/portafolio/"><img src="https://img.shields.io/badge/Portafolio-a78bfa?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://mercugmes.github.io/PortafolioOFC/"><img src="https://img.shields.io/badge/Portafolio-a78bfa?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="mailto:aaronmejiavg@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
