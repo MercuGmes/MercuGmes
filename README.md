@@ -1,6 +1,7 @@
 <div align="center">
 
 # ¡Hola, soy Aaron Mejia! 🚀👾
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1b3885&center=true&vCenter=true&random=false&width=520&lines=¡Hola,+soy+%7C+Aaron+Mejía🚀👾!" alt="Typing SVG" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=225cf6&center=true&vCenter=true&random=false&width=520&lines=Desarrollador+Web+%7C+Ethical+Hacker;HTML+%7C+CSS+%7C+JavaScript+%7C+Python;Seguridad+Web+%26+Open+Source;Siempre+aprendiendo+algo+nuevo+%F0%9F%92%BB" alt="Typing SVG" />
 
